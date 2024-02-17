@@ -15,7 +15,7 @@ function LoggerMiddleware(req, res, next){
 
 
 app.get('/', (req, res) => {
-    res.send('Hello World');
+    res.send('Hello Hello Bandung!');
 })
 
 // endpoint get all customers
